@@ -1,0 +1,2 @@
+FROM sgtcoder/sail:latest
+
